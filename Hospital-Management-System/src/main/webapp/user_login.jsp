@@ -27,7 +27,9 @@
 
                             <button type="submit" class="btn bg-success text-white col-md-12">Login</button>
                         </form>
-                    </div>
+                        <br>
+                        Don't have an account? <a href="signup.jsp" class="text-decoration-none">create one</a>
+                     </div>
                 </div>
             </div>
         </div>
