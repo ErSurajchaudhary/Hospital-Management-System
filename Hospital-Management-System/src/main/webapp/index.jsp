@@ -96,6 +96,54 @@
 
 		</div>
 	</div>
+
+	<!-- Our Team Section -->
+	<hr>
+	<div class="container p-2">
+		<p class="text-center fs-2">Our Team</p>
+		<div class="row">
+			<div class="col-md-3">
+				<div class="card paint-card">
+					<div class="card-body text-center">
+						<img src="Images/doctor1.png" alt=""height="300px">
+						<p class="fw-bold fs-5">Dr. Rakesh Mahanti</p>
+						<p class="fs-7">(CEO & Chairman)</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="card paint-card">
+					<div class="card-body text-center">
+						<img src="Images/doctor2.png" alt="" height="300px">
+						<p class="fw-bold fs-5">Dr. Elena Parker</p>
+						<p class="fs-7">(Chief Doctor)</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="card paint-card">
+					<div class="card-body text-center">
+						<img src="Images/doctor3.png" alt=""height="300px">
+						<p class="fw-bold fs-5">Dr. Alexandra Daddario</p>
+						<p class="fs-7">(Chief Surgeon)</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="card paint-card">
+					<div class="card-body text-center">
+						<img src="Images/doctor4.png" alt="" height="300px">
+						<p class="fw-bold fs-5">Dr. Peter Parker</p>
+						<p class="fs-7">(Chief Surgeon)</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
 	
 	<!-- Footer Section -->
 	<%@include file="component/footer.jsp" %>
