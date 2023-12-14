@@ -97,5 +97,7 @@
 		</div>
 	</div>
 	
+	<!-- Footer Section -->
+	<%@include file="component/footer.jsp" %>
 </body>
 </html>
