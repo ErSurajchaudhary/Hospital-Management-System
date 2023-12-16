@@ -14,13 +14,8 @@
 	<!-- Carousel section for image slider on front page -->
 	<%@include file="component/navbar.jsp"%>
 
-
-	<%
-	Connection conn = DBConnect.getConn();
-	out.print(conn);
-	%>
-
-
+<% Connection conn=DBConnect.getConn();
+			out.print(conn);%>
 	<div id="carouselExampleIndicators" class="carousel slide"
 		data-bs-ride="carousel">
 		<div class="carousel-indicators">

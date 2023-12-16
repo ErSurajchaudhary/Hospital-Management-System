@@ -16,7 +16,7 @@
                 <div class="card paint-card">
                     <div class="card-body">
                         <p class="fs-4 text-center">User Registration</p>
-                        <form action="doclogin" method="post">
+                        <form action="user_register" method="post">
                         
                         	<div class="mb-3">
                                 <label for="" class="form-label">Full Name</label>
